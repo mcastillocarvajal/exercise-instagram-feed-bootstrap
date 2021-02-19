@@ -1,0 +1,29 @@
+img {
+    width: 318px;
+    height: auto;
+    object-fit: cover;
+    object-position: center;
+}
+.col-4 {
+    padding: 1px;
+}
+.container {
+    width: auto;
+    margin-left: 45px;
+}
+.fab {
+    margin-left: 35px;
+    color: black;
+    font-weight: bold;
+    font-size: inherit;
+}
+#main-menu {
+    margin-right: 30px;
+}
+span {
+    font-weight: 490;
+    color: black;
+}
+#Create-new-post {
+    margin-top: 3px;
+}
